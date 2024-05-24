@@ -133,4 +133,4 @@ Además, la correlación entre las calorías y las proteínas es de aproximadame
 <h2>Conclusiones</h2>
 
 -  Las bebidas con mayor contenido calórico suelen tener más proteínas, ya que existe una correlación de aproximadamente 0.775 entre las calorías y las proteínas. Esto indica una relación positiva moderadamente fuerte entre estos dos nutrientes.
--  Esto sugiere que las calorías están fuertemente relacionadas con la cantidad de carbohidratos, así como con las grasas, proteínas y sodio en las bebidas. Las bebidas con más calorías tienden a contener mayores cantidades de estos componentes.
+- Las calorías están fuertemente relacionadas con la cantidad de carbohidratos, grasas, proteínas y sodio en las bebidas, y en menor medida con la fibra.
