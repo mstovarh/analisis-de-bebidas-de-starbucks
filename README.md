@@ -1,6 +1,6 @@
 # Analisis de bebidas de starbucks
 
-En este proyecto se lleva a cabo un análisis exhaustivo de las bebidas de Starbucks utilizando un conjunto de datos obtenido de Kaggle. Se examinan diversos aspectos como las bebidas con menos calorías, menos grasa, menos carbohidratos, más fibra, más proteínas y menos sodio, con el objetivo de identificar las opciones más saludables. Además, se analiza la correlación entre las calorías y las demás características nutricionales de las bebidas.
+En este proyecto, se lleva a cabo un análisis exhaustivo de las bebidas de Starbucks utilizando un conjunto de datos obtenido de Kaggle. Se examinan diversos aspectos nutricionales, como las bebidas con menos calorías, menos grasa, menos carbohidratos, más fibra, más proteínas y menos sodio, con el objetivo de identificar las opciones más saludables. Además, se analiza la correlación entre las calorías y otras características nutricionales de las bebidas. Este proyecto se realizó con el propósito de profundizar en el uso de herramientas de inteligencia artificial, como las capacidades de análisis de datos de ChatGPT.
 
 Se tomó el dataset de Kaggle: https://www.kaggle.com/datasets/ashishpatel26/starbucks-menu-nutrition-drinks
 
